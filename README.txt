@@ -4,6 +4,10 @@
 
 1. Unzip the mit_budget_app folder. 
 
+2. Make sure you have Node.js 
+- https://nodejs.org/en/download/ 
+- check after installation: in terminal: [node -v] and [npm -v]. 
+
 
 *********** START THE SERVER ***********
 
