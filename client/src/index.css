@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800,900&display=swap');
+
+@tailwind base;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  @apply text-xl;
+  @apply font-semibold;
+}
+
+h2 {
+  @apply text-lg;
+  @apply font-semibold;
+}
+
+p {
+  @apply text-sm; 
+}
+
+
+
+@tailwind components;
+
+.btn {
+  @apply rounded-full bg-yellow-400 hover:text-white focus:outline-none font-semibold text-center px-10 py-2 mt-8 mb-5; 
+}
+
+.card {
+  @apply h-72 bg-blue-450 shadow-lg text-white font-semibold w-full col-span-2 border rounded-lg p-5 md:w-1/2 lg:col-span-1; 
+}
+
+.section-header {
+  @apply grid col-span-2 text-2xl; 
+}
+
+.card-header {
+  @apply text-center font-bold mb-5; 
+}
+
+.card-inner-grid { 
+  @apply grid grid-cols-2 items-center gap-2; 
+}
+
+
+
+@tailwind utilities;
