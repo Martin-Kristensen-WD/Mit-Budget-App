@@ -14,9 +14,9 @@ import {Footer} from './Footer'
 const Landingpage = ({isAuthenticated}) => {
   return (
   <Fragment>
+    <div className="relative h-screen ">
       <Header isAuthenticated={isAuthenticated}/>
-      <div className="relative h-screen ">
-
+      
         <div className="flex-col justify-center items-center max-w-xl mx-auto p-8 mt-5 md:mt-12">
           <p className="text-blue-150 md:text-lg">Vi ser frem til at hjælpe dig!</p><br/>
           <h1 className="text-2xl md:text-3xl">Med få klik kan du hurtigt lægge et budget</h1>
