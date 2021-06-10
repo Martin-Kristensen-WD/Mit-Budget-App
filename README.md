@@ -7,8 +7,16 @@ BACHELOR PROJEKT: MIT BUDGET APP
 (PostgreSQL, Express, React & Node.js) 
 
 
+SCREENSHOTS
 **************************************************************
- HOW TO SETUP AND USE LOCALLY 
+
+![](mock-landing.PNG)
+![](mock-regi.PNG)
+![](mock-login.PNG)
+
+
+
+HOW TO SETUP AND USE LOCALLY 
 **************************************************************
 
 1. Unzip the mit_budget_app folder. 
@@ -19,8 +27,6 @@ BACHELOR PROJEKT: MIT BUDGET APP
 - You should have minmum version 14.16.0
 
 3. run npm install in root folder, client folder and server folder. 
-
-**************************************************************
 
 
 START THE SERVER 
@@ -36,7 +42,6 @@ START THE SERVER
 
 Now the server is running in the terminal
 
-**************************************************************
 
 
 START THE FRONTEND
