@@ -1,12 +1,14 @@
 
-Bachelor projekt: Mit Budget App 
+BACHELOR PROJEKT: MIT BUDGET APP
+**************************************************************
 
 - This is my bachelor projekt for Web Development. 
-- Its a fullstack webapplication made with PERN stack. (PostgreSQL, Express, React & Node.js) 
+- Its a fullstack webapplication made with PERN stack. 
+(PostgreSQL, Express, React & Node.js) 
 
 
 **************************************************************
-*************** HOW TO SETUP AND USE LOCALLY *****************
+ HOW TO SETUP AND USE LOCALLY 
 **************************************************************
 
 1. Unzip the mit_budget_app folder. 
@@ -16,8 +18,13 @@ Bachelor projekt: Mit Budget App
 - check the version after the installation: in terminal: [node -v] and [npm -v]. 
 - You should have minmum version 14.16.0
 
+3. run npm install in root folder, client folder and server folder. 
 
-*********** START THE SERVER ***********
+**************************************************************
+
+
+START THE SERVER 
+**************************************************************
 
 1. Open a terminal. CommandPrompt/powershell (Windows) - Terminal (Mac)
 
@@ -27,12 +34,13 @@ Bachelor projekt: Mit Budget App
 
 4. Run the command: nodemon server
 
-*** If it dosent regonize nodemon - type: npm install -g nodemon *** 
-
 Now the server is running in the terminal
 
+**************************************************************
 
-*********** START THE FRONTEND ***********
+
+START THE FRONTEND
+**************************************************************
 
 1. Open a new terminal window - (DONT CLOSE THE TERMINAL THAT RUNS THE SERVER)
 
@@ -46,5 +54,5 @@ Now the server is running in the terminal
 
 
 **************************************************************
-*************************** DONE! ****************************
+DONE! 
 **************************************************************
