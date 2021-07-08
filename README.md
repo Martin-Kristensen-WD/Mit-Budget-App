@@ -2,8 +2,8 @@
 # BACHELOR PROJEKT: MIT BUDGET APP
 **************************************************************
 
-- This is my bachelor projekt for Web Development. 
-- Its a fullstack webapplication made with PERN stack. 
+This is my bachelor projekt for Web Development. 
+Its a fullstack webapplication made with PERN stack. 
 (PostgreSQL, Express, React & Node.js) 
 
 
